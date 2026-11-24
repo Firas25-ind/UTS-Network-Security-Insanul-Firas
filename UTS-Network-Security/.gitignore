@@ -1,0 +1,18 @@
+# Private Keys - DO NOT UPLOAD
+**/key-*.pem
+**/*private*.pem
+*.key
+*.p12
+*.pfx
+
+# Environment variables
+.env
+.env.*
+
+# Temporary files
+*.tmp
+*.log
+
+# Operating System
+.DS_Store
+Thumbs.db
